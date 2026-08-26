@@ -1,0 +1,19 @@
+# macOS.
+.DS_Store
+
+# direnv.
+.direnv
+
+# Sublime Text.
+.lsp
+*.sublime-*
+
+# JetBrains.
+.idea
+*.iml
+
+# Visual Studio Code.
+.vscode
+
+# Build.
+result
